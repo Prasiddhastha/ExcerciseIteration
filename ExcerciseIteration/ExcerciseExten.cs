@@ -68,7 +68,7 @@ namespace ExcerciseIteration
                 if (number > max)
                     max = number;
             }
-            //Console.WriteLine("Max is " + max);
+            Console.WriteLine("Max is " + max);
             //var name = "Mosh";
             //foreach (var character in name)
             //{
