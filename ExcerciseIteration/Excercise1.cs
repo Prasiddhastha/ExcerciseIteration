@@ -29,7 +29,7 @@ namespace ExcerciseIteration
                 Console.WriteLine("Enter a number or (ok to exit):");
                 var userInput = Console.ReadLine();
                 
-                if(userInput.ToLower() == "ok")
+                if(userInput.ToLower() == "ok")//lower ok only
                 {
                     break;
                 }
