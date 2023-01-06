@@ -45,7 +45,6 @@ namespace ExcerciseIteration
                 else 
                 {
                     Console.WriteLine($"Wrong ans you have {count} chances left ");
-                }
                 goto A;
             }
             if (guess == ranNum)
